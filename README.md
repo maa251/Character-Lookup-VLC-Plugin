@@ -2,11 +2,11 @@
 
 VLC Plugin that lets you find out a character's name and background at the press of a button.
 
-##Platforms
+### Platforms
 
 Currently only supports Linux (Debian/Ubuntu)
 
-##Building and Installing VLC Plugin
+### Building and Installing VLC Plugin
 
 0. Download VLC
 
@@ -24,7 +24,7 @@ sudo make install
 ```
 4. Enable plugin from Preferences/Video/Video_Filters. Plugin should be named "Character Lookup"
 
-##Building Qt Gui
+### Building Qt Gui
 
 0. Download QtCreator
 
